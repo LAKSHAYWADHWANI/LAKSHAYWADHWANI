@@ -1,16 +1,26 @@
 ## Hi there 👋
-
-<!--
-**LAKSHAYWADHWANI/LAKSHAYWADHWANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lakshay Wadhwani
+Software Engineer (Python / ML / Data Science)
+B.Tech CSE (AI & Data Science) | CGPA: 9.13
+## What I Build
+I design and ship data-driven backend systems and ML-powered applications,
+with a focus on NLP, automation, and production-ready pipelines.
+## Flagship Systems
+- # Cognify AI — Document Q&A and RAG-based knowledge system
+- # Automated Resume Screening — NLP + similarity scoring pipeline
+- # Web Scrapers and Automated Article Summarizer
+## Engineering Focus
+- Python
+- Java
+- SQL
+- NLP pipelines
+- ML Algorithms  
+- Data processing
+- API-driven system design
+- Clean code
+- modular architecture
+- CI-ready repositories
+## Currently Improving
+- Test coverage
+- CI pipelines
+- System documentation
