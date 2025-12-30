@@ -70,5 +70,7 @@ If you are looking for someone who:
 
 Feel free to explore my repositories or reach out me on:
 📩 Email: lakshaywadhwani2003@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/lakshay-wadhwani-65227b320
+
 📄 Resume: [Download PDF](Lakshay_Wadhwani_Resume_.pdf)
