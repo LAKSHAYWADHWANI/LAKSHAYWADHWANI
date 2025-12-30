@@ -69,6 +69,7 @@ If you are looking for someone who:
 - builds real world buisness oriented system solutions.
 
 Feel free to explore my repositories or reach out me on:
+
 📩 Email: lakshaywadhwani2003@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/lakshay-wadhwani-65227b320
