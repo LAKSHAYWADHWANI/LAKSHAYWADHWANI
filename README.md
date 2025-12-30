@@ -1,10 +1,16 @@
 ## Hi there 👋
-# Lakshay Wadhwani
-Software Engineer (Python / ML / Data Science)
-B.Tech CSE (AI & Data Science) | CGPA: 9.13
+## Lakshay Wadhwani
+**Software Engineer -- Python | ML | NLP |  | Backend Systems | Data Science**Enginee
+B.Tech CSE (AI & Data Science) | *CGPA: 9.13*
+
 ## What I Build
-I design and ship data-driven backend systems and ML-powered applications,
-with a focus on NLP, automation, and production-ready pipelines.
+I design and build **data-driven backend systems and ML-powered applications** with a  strong focus on **production ready pipelines, clean architecture, & deployable code**.
+
+My works perfectly fits at intersection of: 
+- Backend Engineering
+- Machine Learning & NLP
+- Automation
+- Data Pipelines
 ## Flagship Systems
 - # Cognify AI — Document Q&A and RAG-based knowledge system
 - # Automated Resume Screening — NLP + similarity scoring pipeline
