@@ -39,8 +39,8 @@ Built automated scraping and text-processing pipelines for real-world datasets.
 - Text preprocessing and analysis  
 - Structured storage for downstream NLP tasks
 
+---
 Actively improving test coverage, CI workflows, and system documentation to align with production-grade engineering practices
-
 ---
 ## Engineering Focus  
 **Languages:** Python, Java, R, SQL  
