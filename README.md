@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Lakshay Wadhwani
-**Software Engineer -- Python | ML | NLP |  | Backend Systems | Data Science**Enginee
+**Software Engineer -- Python | ML | NLP |  | Backend Systems | Data Science**
 B.Tech CSE (AI & Data Science) | *CGPA: 9.13*
 
 ## What I Build
