@@ -38,6 +38,9 @@ Built automated scraping and text-processing pipelines for real-world datasets.
 - Scalable data extraction workflows  
 - Text preprocessing and analysis  
 - Structured storage for downstream NLP tasks
+
+Actively improving test coverage, CI workflows, and system documentation to align with production-grade engineering practices
+
 ---
 ## Engineering Focus  
 **Languages:** Python, Java, R, SQL  
@@ -53,11 +56,6 @@ Built automated scraping and text-processing pipelines for real-world datasets.
 - Won various Hackathon.
 - Hands-on practical experience through internships.  
 - Strong interest in building systems that actually ship and solve a buisness problem.
-
-## Currently Improving
-- Test coverage
-- CI pipelines
-- System documentation
 
 ## Let’s Connect
 
