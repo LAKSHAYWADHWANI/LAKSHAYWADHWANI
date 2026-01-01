@@ -45,7 +45,7 @@ Built automated scraping and text-processing pipelines for real-world datasets.
 ---
 ## Engineering Focus  
 **Languages:** Python, Java, R, SQL  
-**Backend:** Python backend fundamentals, FastAPI-based stateless REST APIs, API-first design, modular service architecture, Pydantic validation, environment-driven configuration
+**Backend:** Python backend fundamentals, FastAPI-based stateless REST APIs, API-first design, modular service architecture, environment-driven configuration
 **ML & NLP:** Embeddings, semantic similarity, text preprocessing, feature engineering, predictive modeling.  
 **Data:** Pandas, NumPy, structured pipelines, exploratory data analysis, matplotlib.  
 **Practices:** Clean code, separation of concerns, reproducibility  
