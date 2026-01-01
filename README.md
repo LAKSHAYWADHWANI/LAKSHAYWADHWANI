@@ -18,7 +18,8 @@ I focus on **how systems are structured**, not just whether they work.
 I prioritize **fewer, stronger systems** over many shallow repositories.
 ### Cognify AI — Document Q&A and RAG-based knowledge system
 A GenAI-powered system that answers questions over PDFs, documents, and structured files using NLP and semantic search.
-**Highlights**
+
+**Highlights:**
 - Document ingestion and preprocessing pipeline  
 - Semantic embeddings and vector similarity search  
 - Context-aware question answering  
@@ -26,15 +27,17 @@ A GenAI-powered system that answers questions over PDFs, documents, and structur
 ---
 ### Automated Resume Screener
 An NLP-based pipeline to match resumes with job descriptions using semantic similarity.
-**Highlights**
+
+**Highlights:**
 - Text cleaning and skill extraction  
 - Sentence-level embeddings for matching  
 - Scoring and ranking logic  
 - Designed for batch processing workflows
 ---
-### Web Scrapers and Automated Article Summarizer
+  ### Web Scrapers and Automated Article Summarizer
 Built automated scraping and text-processing pipelines for real-world datasets.
-**Highlights**
+
+**Highlights:**
 - Scalable data extraction workflows  
 - Text preprocessing and analysis  
 - Structured storage for downstream NLP tasks
@@ -45,8 +48,8 @@ Built automated scraping and text-processing pipelines for real-world datasets.
 ---
 ## Engineering Focus  
 **Languages:** Python, Java, R, SQL  
-**Backend:** Python backend fundamentals, FastAPI-based stateless REST APIs, API-first design, environment-driven configuration.
-**ML & NLP:** Embeddings, semantic similarity, text preprocessing, feature engineering, predictive modeling.  
+**Backend:** FastAPI, API-first design, modular service architecture, Pydantic validation, environment-based configuration, ML/NLP pipeline integration.  
+**ML & NLP:** Embeddings, semantic similarity, text preprocessing, feature engineering, predictive modeling.    
 **Data:** Pandas, NumPy, structured pipelines, exploratory data analysis, matplotlib.  
 **Practices:** Clean code, separation of concerns, reproducibility  
 
